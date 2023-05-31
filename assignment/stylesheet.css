@@ -16,5 +16,17 @@ Give the body a margin of 0. (This removes the whitespace around the edges of th
 Give the main padding of 1em. (Curious about em? Look up CSS units.) */
 
 body {
-    
+    margin: auto;
+    background-color: black;
+    color: white;
+}
+
+header {
+    background-color: darkblue;
+    color: burlywood;
+    text-align: center;
+}
+
+main {
+    background-color: lightgray;
 }
